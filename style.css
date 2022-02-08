@@ -4,7 +4,8 @@
                 h1 {font-size: xx-large;margin-left: 850px; font-weight: bold;font-family: fantasy }
                     img.main {width: 575px;float: left;border-radius: 287px; margin-left: 0px;}
                 img.two {width: 300px;margin-top: 5cm;margin: auto;float: left;padding-top: 150px;margin-left: 0px;}
-                body{background-color: #a39898b7;}
-                h2{padding-top:125px ;}
-                p.second-pic{padding-top: 125px;}
+                body{background-image: url(Dodge\ 1.jpg);size: 100cm;}
+                h2{padding-top:150px ; padding-left: 350px;}
+                p.second-pic{padding-top: 100px;}
+                img.three{width: 300px; padding-left: 350px;float:left;display: block;}
     </style>
