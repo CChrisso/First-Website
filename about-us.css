@@ -58,4 +58,9 @@ nav{
 .profile-pic{
     position: absolute;
     right: 62%;
+    width: 500px;
+    top: 20%;
+    border: gray solid 5px;
+    border-radius: 10px;
+    
 }
