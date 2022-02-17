@@ -54,7 +54,7 @@ nav{
     font-size: 30px;
     color: white;
 }
-.page-down h1{
+.second-page h1{
     font-family: 'Lobster', cursive;
     position: absolute;
     top: 100%;
@@ -62,7 +62,7 @@ nav{
     margin-top: 7%;
     font-family: 'Lobster', cursive;
 }
-.page-down p{
+.second-page p{
     position: absolute;
     top: 110%;
     margin-left: 60%;
@@ -72,7 +72,7 @@ nav{
     text-align: right;
     font-family: 'Lobster', cursive;
 }
-.page-down img{
+.second-page img{
     width: 400px;
     position: absolute;
     top: 110%;
@@ -80,7 +80,7 @@ nav{
     border: gray solid 5px;
     border-radius: 10px;
 }
-.page-down a{
+.second-page a{
     text-decoration: none;
     display: inline-block;
     color: black;
@@ -94,4 +94,16 @@ nav{
     border-radius: 10px;
     background-color: gray;
     font-family: 'Lobster', cursive;
+}
+.third-page img.left{
+    width: 600px;
+    position: absolute;
+}
+.third-page img.middle{
+    width: 600px;
+    position: absolute;
+}
+.third-page img.right{
+    width: 600px;
+    position: absolute;
 }
